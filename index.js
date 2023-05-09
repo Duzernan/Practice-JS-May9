@@ -19,3 +19,4 @@ function buildFenceCommand(numOfFencePosts, fencePostMaterial) {
 }
 
 buildFenceCommand(3, "wood")
+
